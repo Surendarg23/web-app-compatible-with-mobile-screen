@@ -1,0 +1,43 @@
+/* Employee.css */
+
+.employee-details-container {
+    background-color: #343333;
+    border: 1px solid #2e2d2d;
+    padding: 20px;
+    margin-top: 20px;
+    
+  }
+  
+  .employeedetails {
+    background-color: rgb(45, 44, 44);
+    color: rgb(35, 34, 34);
+    
+  }
+  
+  .employee-details-item {
+    margin-bottom: 10px;
+  }
+  
+  .employee-details-item p {
+    margin: 0;
+  }
+  
+  .employee-id {
+    color: white;
+  }
+  
+  .employee-name {
+    color: white;
+  }
+  
+  .employee-dob {
+    color: orange;
+  }
+  
+  .employee-role {
+    color: green;
+  }
+  
+.search-icon{
+    float: right;
+}
